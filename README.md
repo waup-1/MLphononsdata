@@ -16,7 +16,7 @@ ccsd - Coupled Cluster singles and doubles
 ccsdt - Coupled Cluster singles doubles and pertubative triples
 
 
-lih/lih_md_sweep.xyz contains the 2000 data points used for training ML(DFT E,F), with DFT energies and forces for each of the 2000 structures.
+lih/lih_md_sweep222.xyz contains the 2000 data points used for training ML(DFT E,F), with DFT energies and forces for each of the 2000 structures.
 
 lih/200221forcc.xyz contains the 200 data points with DFT energies and forces for each of the 200 structures - they are used in training ML(DFT E).
 
